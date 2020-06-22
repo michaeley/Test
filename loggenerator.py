@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 """
 @File    :   loggenerator.py
-@Contact :   xhliu@travelsky.com
+@Contact :   
 @License :   (C)Copyright 2020, xhliu work in WLW
 
 @Modify Time      @Author    @Version    @Desciption
